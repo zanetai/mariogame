@@ -1,0 +1,11 @@
+finish level
+get life
+get coin
+get upgrade
+kill turtle
+kill goomba
+finish level
+get damaged
+get upgrade
+get upgrade
+finish level
